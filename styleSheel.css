@@ -1,0 +1,149 @@
+body { margin: 0; }
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;    
+    width: 100%;
+}
+.navbar a {
+    float: left;
+    color: white;
+    margin:0px 0px 5px 75px;
+    text-decoration: none;
+    font-size: 14px;
+    padding-top: 10px;
+}
+.navbar a:hover {
+    color: gray;
+}
+i {
+    display: block;
+    color: white; 
+    padding: 3px 0px 0px 00px;
+    margin-left: 10px;
+    background-color: #333;   
+}
+.adjust {
+      padding-left: 92px;
+}
+.mainimg {
+    text-align: center;
+    padding:90px 0px 0px 10px; 
+}
+.footerimg {
+    border: 4px solid white;
+}
+.p01 { 
+    font-size:25px;
+    text-align: center;
+    padding:0px 350px 0px 350px; 
+}
+.p02 { 
+    font-size:20px;
+    text-align: center;
+    padding:0px 350px 0px 350px;
+    margin-top:75px; 
+}
+.link {
+    padding-left: 40%;
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+.link02 {
+    padding-left: 50px;
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+.mainh {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-size: 70px;
+}
+h2 {
+    font-size: 45px;
+}
+.i01 {
+    margin-left: 8px;
+    padding:7px;
+    border: 1px solid blue; 
+    color: blue; 
+    background-color:transparent; 
+    border-radius: 15px; 
+}
+.i02 {
+   margin-left: 8px;
+   color: blue;
+   background-color: transparent;
+   font-size: 15px;
+}
+footer {
+    background-color: #f5f5f5;
+    padding-bottom: 10px;    
+}
+li {
+  padding-bottom: 7px;
+  list-style-type: none;
+}
+.li01 { 
+    color: #484848;
+}
+ul {
+    float: left;
+    padding:0px 35px 0px 50px;
+    border-collapse: collapse;
+    font-size: 11px;     
+}
+.d01 {
+    padding:5px 200px 0px 150px;
+    border:1px solid gray hidden;
+    color: gray;
+}
+hr {
+    border-radius: 25px;
+    background-color: #a9a9a9;
+    height: 1px;
+    margin:340px 200px 0px 200px;
+}
+.d02 {
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-right: 500px;
+    color: gray;
+}
+.p03 {
+    padding-left: 200px;
+    font-size: 11px;
+    color: gray;
+}
+.span01 {
+    padding-left: 40px;
+    padding-right: 10px;
+    color: #303030;
+}
+.span02 {
+    padding:0px 10px 0px 10px;
+    border-left: 1px solid black;
+    color: #303030;
+
+}
+.span03 {
+    padding: 0px 0px 0px 127px;
+    color: #303030;
+}
+.flag {
+    width: 20px;
+    height: 20px;
+}
+ul>a {
+    text-decoration: none;
+    cursor: default;
+}
+ul>a:hover{
+    text-decoration: underline;
+    color: black;
+}
